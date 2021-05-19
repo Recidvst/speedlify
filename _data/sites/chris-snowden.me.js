@@ -7,8 +7,9 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
+		"https://www.chris-snowden.me",
 		"https://www.chris-snowden.me/",
-		"https://www.chris-snowden.me/contact",
-		"https://www.chris-snowden.me/projects",
+		"https://www.chris-snowden.me/contact/",
+		"https://www.chris-snowden.me/projects/",
 	]
 };
