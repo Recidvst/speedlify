@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11533c85-b6e4-4a6c-9125-33309da5d2f1/deploy-status)](https://app.netlify.com/sites/speedlify-chris-snowden/deploys)
+
 # speedlify
 
 > Thanks to [@zachleat](https://www.zachleat.com/web/speedlify/) ✊
